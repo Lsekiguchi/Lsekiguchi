@@ -1,10 +1,16 @@
-## Hi there 👋
+# Olá! Sou o Lsekiguchi! 👋
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/Lsekiguchi">
-  <img height="180em" src="https://github-readme-stats-vercel.app/api?username-Lsekiguchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## Seja bem-vindo ao meu perfil!
 
-</div>
+
+  - _**Sobre mim**_
+  
+  📚 Comecei a estudar programação em novembro de 2024 por conta própria 
+  
+  📖 Atualmente estou aprendendo C enquanto faço alguns projetos em repositórios privados que pretendo disponibilizá-los em algum momento de um futuro próximo
+  
+  🤩 Também gosto muito de matemática e de todas as ciências da natureza
+  
 
 ##
 
