@@ -2,15 +2,31 @@
 
 ## Seja bem-vindo ao meu perfil!
 
-
   - _**Sobre mim**_
+
+
+  <div>
+  <img align="center" alt="vscode" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="w11" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
+  <img align="center" alt="notion" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
+  <p>
+
+  </div>
+
   
   📚 Comecei a estudar programação em novembro de 2024 por conta própria 
   
   📖 Atualmente estou aprendendo C enquanto faço alguns projetos em repositórios privados que pretendo disponibilizá-los em algum momento de um futuro próximo
   
   🤩 Também gosto muito de matemática e de todas as ciências da natureza
-  
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="mdown" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+
+  </div>
 
 ##
 
