@@ -25,6 +25,7 @@
   <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
   <img align="center" alt="mdown" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
 
   </div>
