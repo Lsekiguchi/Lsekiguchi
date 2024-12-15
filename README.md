@@ -8,6 +8,8 @@
   <div>
   <img align="center" alt="vscode" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="w11" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
+  <img align="center" alt="notion" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
+  <img align="center" alt="notion" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
   <img align="center" alt="notion" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
   <img align="center" alt="notion" height="20" width="25" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <p>
