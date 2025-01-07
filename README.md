@@ -26,9 +26,12 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="html5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
-  <img align="center" alt="mdown" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="gimp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+  <img align="center" alt="latex" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+  <img align="center" alt="markdown" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
 
   </div>
 
