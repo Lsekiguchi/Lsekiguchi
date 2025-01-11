@@ -19,7 +19,7 @@
   
   📚 Comecei a estudar programação em novembro de 2024 por conta própria 
   
-  📖 Atualmente estou aprendendo C enquanto faço alguns projetos em repositórios privados que pretendo disponibilizá-los em algum momento de um futuro próximo
+  📖 Atualmente estou aprendendo C e HTML5 e CSS3 enquanto faço alguns projetos em repositórios privados que pretendo disponibilizá-los em algum momento de um futuro próximo
   
   🤩 Também gosto muito de matemática e de todas as ciências da natureza
 
