@@ -1,8 +1,8 @@
-# Olá! Sou o Lsekiguchi! 👋
+# Hi there! I'm Lsekiguchi! 👋
 
-## Seja bem-vindo ao meu perfil!
+## Welcome to my Github profile!
 
-  - _**Sobre mim**_
+  - _**About me**_
 
 
   <div>
@@ -16,12 +16,13 @@
 
   </div>
 
-  
-  📚 Comecei a estudar programação em novembro de 2024 por conta própria 
-  
-  📖 Atualmente estou aprendendo C e HTML5 e CSS3 enquanto faço alguns projetos em repositórios privados que pretendo disponibilizá-los em algum momento de um futuro próximo
-  
-  🤩 Também gosto muito de matemática e de todas as ciências da natureza
+  🔭 **I'm currently working on:** Some exciting private projects that I plan to open-source soon;
+
+  📖 **I'm currently learning:** C++ and Python;
+
+  📚 **My journey:** I started teaching myself how to code in November 2024, but stopped in 2025 and resumed in 2026;
+
+  🤩 **Other interests:** I also have a deep passion for mathematics, physics, chemistry, and the natural sciences!
 
   <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
